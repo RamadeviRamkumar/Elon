@@ -1,0 +1,16 @@
+.video{
+    
+    background-color:rgb(167, 230, 230);
+    color :whitesmoke;
+    padding: 150px;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+  }
+  .footer{
+    background-color:black;
+    color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+  }
